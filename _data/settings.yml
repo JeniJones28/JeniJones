@@ -2,11 +2,11 @@ title: ITS JENI
 description: ""
 footer_text: Copyright 2021 Jeni Jones
 header_feature_image: ../uploads/pawel-czerwinski-adidvog021w-unsplash.jpg
-header_text: My Dream Blog
+header_text: Jeni Jones
 header_text_color: "#ffffff"
 bannerheight: 100vh
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
-fixednavbar: true
+fixednavbar: false
 upzoom: true
