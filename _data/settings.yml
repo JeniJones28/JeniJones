@@ -8,5 +8,5 @@ bannerheight: 100vh
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
-fixednavbar: false
+fixednavbar: true
 upzoom: true
