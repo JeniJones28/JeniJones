@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: JeniJones/Jenijones # Path to your GitHub repository
+  repo: JeniJones28/Jenijones # Path to your GitHub repository
   branch: master # Branch to update (master by default)
   site_domain: itsjeni.netlify.app #Your site on netlify
   use_graphql: true
