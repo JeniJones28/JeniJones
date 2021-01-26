@@ -2,9 +2,9 @@ title: ITS JENI
 description: ""
 footer_text: Copyright 2021 Jeni Jones
 header_feature_image: ../uploads/pawel-czerwinski-adidvog021w-unsplash.jpg
-header_text: Jeni Jones
+header_text: "Lifestyle - Baking - Reading "
 header_text_color: "#ffffff"
-bannerheight: 100vh
+bannerheight: 40vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
