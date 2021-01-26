@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  {%- include recipeshead.html -%}
+  <body class="{{page.layout}}" id="{{ page.title | replace: " ", "_" }}">
+    {%- include recipesnav.html -%}
+    <main>
+      <header>
+        <h1>{{ page.title }}</h1>
+      </header>
+      <div class="content">
+        {{ content | replace: "../uploads", "/uploads" }}
+      </div>
+    </main>
+  
+    <!-- remove the paragraph around the image and then warp with a figure -->
+    <script>
+      $('p img').unwrap();
+      $("img").wrap("<figure></figure>");
+      </script>
+  </body>
+</html>

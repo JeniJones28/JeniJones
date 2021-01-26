@@ -1,0 +1,84 @@
+/* CSS for recipes */
+
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  background: #fff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 30px;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+  display: block;
+}
+
+img {
+  max-width: 100%;
+}
+
+blockquote {
+}
+
+.caption {
+  display: block;
+}
+
+table {
+}
+
+td,
+th {
+}
+
+p,
+ol,
+ul {
+  line-height: 1.5;
+  margin-bottom: 1em;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid #fff;
+  margin: 1em 0;
+}
+
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+/* for a menu for all recipes */
+ul.allrecipes {
+  list-style: none;
+}
+
+.menu {
+  display: block;
+  border: 1px solid gray;
+  width: 15%;
+  font-size: 60%;
+  padding: 10px;
+  margin: 20px 0;
+}

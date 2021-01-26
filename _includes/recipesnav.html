@@ -1,0 +1,30 @@
+{%- if page.layout == "recipe" -%}
+
+	<!-- Toggle menu -->
+	<nav class="menu">
+	<a aria-label="pull" id="pull" class="toggle" href="#">
+	<i class="fa fa-bars fa-lg"></i>
+	</a>
+
+	<!-- Menu -->
+	<ul class="allrecipes">
+		<li>
+			<a href="{{ '/recipes' | relative_url }}">Home</a>
+		</li>
+	{%- assign items = site.recipes | sort: 'order' -%}
+	    {%- for recipe in items limit:30 -%}
+			{% if recipe.title != page.title %}
+	              <li class="recipelink">
+	                <a class="clear" aria-label="{{ recipe.title }}" class="post-link" href="{{ recipe.url | relative_url }}">
+	                {{ recipe.title }}
+	              </a>
+	              </li>
+			{% else %}
+			<li class="recipehere">
+				{{ recipe.title }}
+			</li>
+			{% endif %}
+	    {% endfor %}
+	</ul>
+	</nav>
+{%- endif -%}

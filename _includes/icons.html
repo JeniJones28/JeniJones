@@ -1,0 +1,132 @@
+{%- if site.data.social.rss -%}
+<li>
+	<a href="{{ "feed.xml" | absolute_url }}" title="{{ site.str_rss_follow }}">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+{%- endif -%}
+
+{%- if site.data.social.email_address -%}
+<li>
+	<a href="mailto:{{ site.data.social.email_address }}" title="{{ site.str_email }}">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+{%- endif -%}
+
+{%- if site.data.social.facebook -%}
+<li>
+	<a href="https://www.facebook.com/{{ site.data.social.facebook }}" title="{{ site.str_follow_on }} Facebook">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+{%- endif -%}
+
+{%- if site.data.social.flickr -%}
+<li>
+	<a href="https://www.flickr.com/photos/{{ site.data.social.flickr }}" title="{{ site.str_follow_on }} Flickr">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-flickr fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+{%- endif -%}
+
+{%- if site.data.social.instagram -%}
+<li>
+	<a href="https://instagram.com/{{ site.data.social.instagram }}" title="{{ site.str_follow_on }} Instagram">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+{%- endif -%}
+
+{%- if site.data.social.linkedin -%}
+<li>
+	<a href="{{ site.data.social.linkedin }}" title="{{ site.str_follow_on }} LinkedIn">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+{%- endif -%}
+
+{%- if site.data.social.pinterest -%}
+<li>
+	<a href="https://www.pinterest.com/{{ site.data.social.pinterest }}" title="{{ site.str_follow_on }} Pinterest">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+{%- endif -%}
+
+{%- if site.data.social.soundcloud -%}
+<li>
+	<a href="https://soundcloud.com/{{ site.data.social.soundcloud }}" title="{{ site.str_follow_on }} SoundCloud">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-soundcloud fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+{%- endif -%}
+
+{%- if site.data.social.tumblr -%}
+<li>
+	<a href="https://{{ site.data.social.tumblr }}.tumblr.com/" title="{{ site.str_follow_on }} Tumblr">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-tumblr fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+{%- endif -%}
+
+{%- if site.data.social.twitter -%}
+<li>
+	<a href="https://twitter.com/{{ site.data.social.twitter }}" title="{{ site.str_follow_on }} Twitter" class="type">
+        <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+{%- endif -%}
+
+{%- if site.data.social.youtube -%}
+<li>
+	<a href="https://www.youtube.com/user/{{ site.data.social.youtube }}" title="{{ site.str_follow_on }} YouTube">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+{%- endif -%}
+
+
+{%- if site.data.social.github -%}
+<li>
+	<a href="https://github.com/{{ site.data.social.github }}" title="Check out the code on GitHub">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+						<i class="fa fa-github fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+{%- endif -%}

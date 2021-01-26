@@ -1,0 +1,30 @@
+{%- seo title=false -%}
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+{%- if page.header_feature_image != null -%}
+<meta property="og:image" content="{{site.url}}{{page.header_feature_image | replace: "..", "" }}">
+{%- else -%}
+<meta property="og:image" content="{{site.url}}{{site.data.settings.header_feature_image | replace: "..", "" }}">
+{%- endif -%}
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="{{site.url}}{{page.url}}">
+<meta name="twitter:site" content="@{{site.data.social.twitter}}">
+{%- if page.title != null -%}
+<meta name="twitter:title" content="{{page.title}}">
+{%- else -%}
+<meta name="twitter:title" content="{{site.data.settings.title}}">
+{%- endif -%}
+{%- if page.excerpt != null -%}
+<meta name="twitter:description" content="{{page.excerpt | strip_html}}">
+{%- else -%}
+<meta name="twitter:description" content="{{site.data.settings.description}}">
+{%- endif -%}
+{%- if page.header_feature_image != null -%}
+<meta name="twitter:image" content="{{site.url}}{{page.header_feature_image | replace: "..", "" }}">
+{%- else -%}
+<meta name="twitter:image" content="{{site.url}}{{site.data.settings.header_feature_image | replace: "..", "" }}">
+{%- endif -%}
+<meta name="twitter:creator" content="@{{site.data.social.twitter}}">

@@ -1,0 +1,12 @@
+title: Your name or name of site
+description: A website with a blog
+header_text: My Dream Blog
+header_text_color: "#ffffff"
+footer_text: Copyright 2020 Your name
+header_feature_image: ../uploads/pages.jpg
+bannerheight: "20vmax"
+gridlayout: false
+logo: /uploads/logo.jpg
+favicon: /uploads/favicon.ico
+upzoom: true
+fixednavbar: false

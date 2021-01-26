@@ -1,0 +1,33 @@
+<div class="posts">
+
+  {%- assign items = site.homepageitems | sort: 'title' -%}
+    {%- for homepageitem in items limit:30 -%}
+    <div class="post-teaser">
+        {% if homepageitem.header_feature_image %}
+        {% assign image_url = homepageitem.header_feature_image -%}
+        <div class="post-img">
+            <a aria-label="{{ homepageitem.title }}" href="{{ homepageitem.url | relative_url }}">
+              {%- if item.caption -%}
+                <img alt="{{ homepageitem.caption }}" src="{{ image_url | relative_url }}">
+              {%- else -%}
+                <img alt="{{ homepageitem.title }}" src="{{ image_url | relative_url }}">
+              {%- endif -%}
+
+            </a>
+        </div>
+        {% endif %}
+        <span>
+          <header>
+            <h1>
+              <a aria-label="{{ homepageitem.title }}" class="post-link" href="{{ homepageitem.url | relative_url }}">
+                {{ homepageitem.title }}
+              </a>
+            </h1>
+          </header>
+          <div class="excerpt">
+              {{ homepageitem.excerpt }}
+          </div>
+      </span>
+    </div>
+    {% endfor %}
+</div>

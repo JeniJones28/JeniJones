@@ -1,0 +1,20 @@
+# Mac files
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+*.manifest
+*.spec
+
+# Jekyll dev or build files
+_site/*
+
+# Theme Gem files
+*.gem
+.gems
+
+# any pandoc outputs
+
+*.icml
+*.docx
+*.indd
+*.indt

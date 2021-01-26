@@ -1,0 +1,126 @@
+body {
+  color: #262626;
+  font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;
+  font-size: 1.25em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.3;
+  margin: 0.67em 0;
+  font-family: "Roboto Slab", Georgia, serif;
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  color: #262626;
+}
+
+h1 a {
+  font-size: 1em;
+}
+
+.home #main h1 {
+  font-size: 3em;
+  line-height: 1;
+}
+
+.site-header .site-title {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.75em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1.15em;
+}
+
+.caption {
+  font-size: 0.9em;
+}
+
+ol,
+ul {
+  list-style-position: inherit;
+  padding-left: 2em;
+  font-size: 0.8em;
+}
+
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+blockquote {
+  border-left: 2px solid #9fd2e3;
+  margin: 1em 1em;
+  padding: 0.75em 1em;
+  background-color: #eef7fa;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+.caption {
+  font-size: 0.9em;
+  color: #308fb0;
+}
+
+/* change the first paragraph in a blog post */
+.post-content p:first-child {
+  font-size: 1.2em;
+}
+
+/* when the screen gets small the fonts then change size. There are 2 steps here. You can leave this alone*/
+
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 1.1em;
+  }
+
+  .home #main h1 {
+    font-size: 2.5em;
+  }
+
+  h1 a {
+    font-size: 0.95em;
+  }
+
+  header#main h1 {
+    font-size: 2.1em;
+  }
+
+  p {
+    font-size: 1.1em;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  body {
+    font-size: 0.9em;
+  }
+
+  h1 a {
+    font-size: 0.9em;
+  }
+
+  header#main h1 {
+    font-size: 1.8em;
+  }
+
+  p {
+    font-size: 1.3em;
+  }
+}

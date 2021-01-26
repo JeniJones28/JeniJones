@@ -1,0 +1,41 @@
+<div class="share-buttons">
+    <ul class="share-buttons">
+        <!-- <div class="meta">Share</div> -->
+        {% if site.data.share_buttons.facebook %}
+        <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank" title="{{ site.str_share_on }} Facebook">
+			<i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i>
+			<span class="sr-only">{{ site.str_share_on }} Facebook</span>
+		</a>
+        </li>
+        {% endif %} {% if site.data.share_buttons.twitter %}
+        <li>
+            <a href="https://twitter.com/intent/tweet?source={{ page.url | absolute_url }}&text={{ page.title | url_encode }}%20%7C%20{{ site.title | url_encode }}:%20{{ page.url | absolute_url }}" target="_blank" title="{{ site.str_tweet }}">
+			<i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
+			<span class="sr-only">{{ site.str_tweet }}</span>
+		</a>
+        </li>
+        {% endif %} {% if site.data.share_buttons.tumblr %}
+        <li>
+            <a href="http://www.tumblr.com/share?v=3&u={{ page.url | absolute_url }}&quote={{ page.title | url_encode }}%20%7C%20{{ site.title | url_encode }}&s=" target="_blank" title="{{ site.str_share_on }} Tumblr">
+			<i class="fa fa-tumblr-square fa-2x" aria-hidden="true"></i>
+			<span class="sr-only">{{ site.str_share_on }} Tumblr</span>
+		</a>
+        </li>
+        {% endif %} {% if site.data.share_buttons.pinterest %}
+        <li>
+            <a href="http://pinterest.com/pin/create/button/?url={{ page.url | absolute_url }}&description=" target="_blank" title="{{ site.str_pin_it }}">
+			<i class="fa fa-pinterest-square fa-2x" aria-hidden="true"></i>
+			<span class="sr-only">{{ site.str_pin_it }}</span>
+		</a>
+        </li>
+        {% endif %} {% if site.data.share_buttons.linkedin %}
+        <li>
+            <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}&title={{ page.title | url_encode }}%20%7C%20{{ site.title | url_encode }}&summary=&source={{ page.url | absolute_url }}" target="_blank" title="{{ site.str_share_on }} LinkedIn">
+			<i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>
+			<span class="sr-only">{{ site.str_share_on }} LinkedIn</span>
+		</a>
+        </li>
+        {% endif %}
+    </ul>
+</div>

@@ -1,0 +1,70 @@
+# SITE CONFIGURATION
+baseurl: ''  #leave this alone
+url: "https://yoursite.netlify.app"   #change this to yours
+repository: yourusername/yourrepository
+# twitter_username: pageboy  #change to your own twitter account
+lang: en_gb
+timezone: UTC
+
+rss: false  # Make sure you created a feed.xml with feed.xml layout
+# excerpt_separator: <!--above-here-is-displayed-on-home-page-->
+
+# Scripts / Features
+google_analytics: # Tracking ID, e.g. "UA-000000-01"
+
+# Localization strings
+str_follow_on: "Follow on"
+str_rss_follow: "Follow RSS feed"
+str_share_on: "Share on"
+str_add_to: "Add to"
+str_email: "Email"
+str_tweet: "Tweet"
+str_pin_it: "Pin it"
+str_next_post: "Next post"
+str_previous_post: "Previous post"
+str_next_page: "Next"
+str_previous_page: "Prev"
+str_javascript_required_disqus: "Please enable JavaScript to view comments."
+
+# Post navigation
+post_navigation: true
+
+# PAGINATION
+paginate: 8
+paginate_path: "page:num"
+
+# collections
+collections:
+  homepageitems:
+    output: true
+    layout: page
+  recipes:
+    output: true
+    layout: content
+
+# BUILD SETTINGS
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  parse_block_html: true
+  # Rouge Highlighter in Kramdown › http://kramdown.gettalong.org/syntax_highlighter/rouge.html
+  # span, block element options fall back to global
+  syntax_highlighter_opts:
+    # Rouge Options › https://github.com/jneen/rouge#full-options
+    css_class: 'codehilite'
+    # span:
+    #   line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+permalink: pretty
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
+exclude: [".jekyll-cache", "Gemfile", "README.md"]
+github: [metadata]
+# if you want the blog to be below the home page through a link  - comment out the following line and then remove the hashes from the next 2 lines. In other words you want to include the blog/index and exclude the index on the home page.
+exclude: ["blog/index.html"]
+# paginate_path: "blog/page:num"
+# exclude: ["index.html"]
+
+# Note you will then want to add the blog to the menubar through the CMS
+# You should also UNCOMMENT the homepageitems section in the config.yml file inside the the admin folder
