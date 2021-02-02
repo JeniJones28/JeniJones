@@ -1,12 +1,12 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
+title: ITS JENI
+description: "This blog is all about me, myself and i. My thoughts and ideas on "
+footer_text: Copyright 2021 Jeni Jones
+header_feature_image: ../uploads/pawel-czerwinski-adidvog021w-unsplash.jpg
+header_text: "Lifestyle - Baking - Reading "
 header_text_color: "#ffffff"
-footer_text: Copyright 2020 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
+bannerheight: 40vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
+gridlayout: true
+fixednavbar: true
 upzoom: true
-fixednavbar: false
