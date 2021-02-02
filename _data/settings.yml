@@ -7,6 +7,6 @@ header_text_color: "#ffffff"
 bannerheight: 40vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
-gridlayout: false
-fixednavbar: false
+gridlayout: true
+fixednavbar: true
 upzoom: true
