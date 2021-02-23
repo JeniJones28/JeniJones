@@ -4,8 +4,8 @@ description: This blog is all about me, myself and i. My thoughts and ideas on
 footer_text: Copyright 2021 Jeni Jones
 header_feature_image: ../uploads/arnel-hasanovic-mnd-rka1o0q-unsplash.jpg
 header_text: "Lifestyle - Baking - Reading "
-header_text_color: "#000000"
-bannerheight: 20vmax
+header_text_color: "#f5c2c2"
+bannerheight: 10vmax
 logo: ../uploads/img_4129.jpg
 favicon: ../uploads/flowers_plants_flower_pots_abstract_vases_icon_181459.ico
 gridlayout: true
