@@ -1,11 +1,12 @@
 title: ITS JENI
-description: "This blog is all about me, myself and i. My thoughts and ideas on "
+description: This blog is all about me, myself and i. My thoughts and ideas on
+  everything and anything!
 footer_text: Copyright 2021 Jeni Jones
-header_feature_image: ../uploads/pawel-czerwinski-adidvog021w-unsplash.jpg
+header_feature_image: ../uploads/arnel-hasanovic-mnd-rka1o0q-unsplash.jpg
 header_text: "Lifestyle - Baking - Reading "
-header_text_color: "#ffffff"
-bannerheight: 40vmax
-logo: /uploads/logo.jpg
+header_text_color: "#000000"
+bannerheight: 20vmax
+logo: ../uploads/img_4129.jpg
 favicon: /uploads/favicon.ico
 gridlayout: true
 fixednavbar: true
