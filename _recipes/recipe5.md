@@ -6,8 +6,6 @@ layout: recipe
 published: true
 tags: null
 ---
-
-
 ## *Profile*
 
 **Name:** Lady Marmalade
@@ -24,11 +22,7 @@ Unlock, the Lady Marmalade a fresh zesty burst of blood orange, combined with th
 
 
 
-
-
 ## *Ingredients* 
-
-
 
 **For the cinnamon syrup:**
 
@@ -44,7 +38,7 @@ Unlock, the Lady Marmalade a fresh zesty burst of blood orange, combined with th
 * 2 ounces white rum
 * 1/2-ounce lime juice
 * 1/2-ounce cinnamon simple syrup
-*  Blood orange slice or twist for garnish 
+* Blood orange slice or twist for garnish 
 
 
 
@@ -52,9 +46,9 @@ Unlock, the Lady Marmalade a fresh zesty burst of blood orange, combined with th
 
 ###### *Step 1*
 
-The first thing you need to do is blend your strawberries and two teaspoons of water together in a blender on high, until it forms a thick puree. Then pour your strawberry puree into a small saucepan and add in another 3 tablespoons of water, sugar and the juice of one lemon. Heat the mixture through, on a medium heat, stirring and combining thoroughly. 
+The first step is to make the cinnamon syrup, all you need is to mix your sugar and water in a small saucepan, at medium heat until dissolved. Next add your cinnamon sticks, and reduce your heat to low and let it continue to simmer for about 10 minutes. Then let your syrup cool down and strain out your cinnamon sticks out just after.
 
- 
+
 
 ##### *Step 2* 
 
