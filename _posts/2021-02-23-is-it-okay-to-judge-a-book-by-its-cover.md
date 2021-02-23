@@ -3,7 +3,7 @@ layout: post
 title: Is it okay to judge a book by its cover?
 date: 2021-02-23T01:03:39.261Z
 header_feature_image: ../uploads/screen-shot-2016-12-19-at-2.47.19-pm.png
-title_color: "#0c0000"
+title_color: "#ffffff"
 comments: false
 tags:
   - ""
