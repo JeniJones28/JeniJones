@@ -20,12 +20,6 @@ tags: null
 
 ![Fig rosemary lemon rum cocktail ](../uploads/gaby-yerden-3x2cfcobeeq-unsplash.jpg "Pink Fig Delight ")
 
-
-
-
-
-
-
 Unlock the delicious Pink Fig Delight- a perfect fusion of sweet and tangy flavours. This white rum cocktail mingles sweet rich fig with fresh zesty lemon and whispers of aromatic rosemary and fig Shrub. This cocktail is the perfect accompaniment for your summer soirée! The best time to have this cocktail is within the late summer, early autumn time, when figs are in season, giving you the fresh essence of early autumn and the reminiscent of summer nights.
 
 ![Fig rosemary lemon rum cocktail ](../uploads/gaby-yerden-gentnw9v0qg-unsplash.jpg "Pink Fig Delight ")
