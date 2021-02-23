@@ -8,7 +8,7 @@ header_text_color: "#f5c2c2"
 bannerheight: 10vmax
 logo: ../uploads/img_4129.jpg
 favicon: ../uploads/flowers_plants_flower_pots_abstract_vases_icon_181459.ico
-gridlayout: false
+gridlayout: true
 fixednavbar: true
 upzoom: true
 items: []
