@@ -1,20 +1,25 @@
 ---
-layout: page
-title: About
+header_feature_image: /uploads/log.jpg
+title: About Me
+subtitle: All about me and my life
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+layout: page
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
-show: false
+show: true
 ---
+### Note from the Author 
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+Hi  it's jeni here, 
 
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+I'm at 21 year old women, in my last year in Oxford Brookes University, studying an undergraduate degree in  Publishing Media. I love reading, baking, socialising with friends and much more! This blog is about sharing my thoughts on anything and everything, including the publishing world, designing and photoshop, Website designing, reading, and cooking, whether it is baking a cake, cooking a roast dinner or creating a cocktail, im a big foodie and i love sharing my recipes and tips with all of you. 
+
+
+
+Enjoy the ride 
+
+jeni x
