@@ -1,7 +1,7 @@
 ---
 title: Pink Fig Delight
 order: 1
-date: 2019-10-19
+date: 2019-10-20T23:00:00.000Z
 layout: recipe
 published: true
 tags: null
