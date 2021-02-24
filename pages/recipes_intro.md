@@ -1,7 +1,8 @@
 ---
-title: "All of My Cocktail Recipes "
+title: "All of my rum cocktail recipes "
+subtitle: All Cocktails are from The Cocktail Vault Recipe Book!
 permalink: /recipes/
-date: 2020-11-19T18:50:31.663Z
+date: 2020-11-21T18:50:31.663Z
 show: true
 layout: recipeshome
 ---
