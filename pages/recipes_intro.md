@@ -1,5 +1,5 @@
 ---
-title: "All of my rum cocktail recipes "
+title: "The Cocktail Vault: Rum edition"
 subtitle: All Cocktails are from The Cocktail Vault Recipe Book!
 permalink: /recipes/
 date: 2020-11-21T18:50:31.663Z
