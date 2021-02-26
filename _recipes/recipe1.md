@@ -26,16 +26,12 @@ Unlock the delicious Pink Fig Delight- a perfect fusion of sweet and tangy flavo
 
 ## **Ingredients**
 
-
-
 ##### For the Fig Rosemary Shrub
 
 * 2 cups diced fresh figs
 * 3/4 cup granulated sugar
 * 1 cup apple cider vinegar
 * 10 sprigs fresh rosemary   
-
-
 
 ##### For the Cocktail
 
@@ -46,15 +42,11 @@ Unlock the delicious Pink Fig Delight- a perfect fusion of sweet and tangy flavo
 * Rosemary sprigs for garnish 
 * Lemon Slices for garnish
 
-
-
 ## Method
 
 ##### *Step 1:*
 
 To make the shrub, you need to allow it to sit in the fridge overnight, to produce the best taste, so bear this in mind before starting the recipe. The first thing you need to do is combine your figs, ( But remember to save some for garnishing!), sugar, vinegar and your rosemary sprigs in a medium bowl, mixing everything until it becomes one mixture. Cover with foil or plastic wrapping, and place at the top of your fridge overnight, ideally at 0-5 degrees.
-
-
 
 ##### *Step 2:*
 
