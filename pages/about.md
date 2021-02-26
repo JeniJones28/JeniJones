@@ -8,18 +8,14 @@ layout: page
 published: true
 tags: null
 description: null
-show: true
+show: false
 ---
-### Note from the Author 
+### Note from the Author
 
+*Hi  it's jeni here,* 
 
+*I'm at 21 year old women, in my last year in Oxford Brookes University, studying an undergraduate degree in  Publishing Media. I love reading, baking, socialising with friends and much more! This blog is about sharing my thoughts on anything and everything, including the publishing world, designing and photoshop, Website designing, reading, and cooking, whether it is baking a cake, cooking a roast dinner or creating a cocktail, im a big foodie and i love sharing my recipes and tips with all of you.* 
 
-Hi  it's jeni here, 
+*Enjoy the ride* 
 
-I'm at 21 year old women, in my last year in Oxford Brookes University, studying an undergraduate degree in  Publishing Media. I love reading, baking, socialising with friends and much more! This blog is about sharing my thoughts on anything and everything, including the publishing world, designing and photoshop, Website designing, reading, and cooking, whether it is baking a cake, cooking a roast dinner or creating a cocktail, im a big foodie and i love sharing my recipes and tips with all of you. 
-
-
-
-Enjoy the ride 
-
-jeni x
+*jeni x*
