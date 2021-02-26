@@ -11,3 +11,7 @@ The Cocktail Vault is an anthology of the most highly distinguished Rum cocktail
 ![The cocktail vault: Rum Edition - cover image ](../uploads/cover-recipe-book-1-.jpg " The cocktail vault: Rum Edition ")
 
 Moreover, this treasury of knowledge will truly allow you to be immersed into the creations of these secret elixirs, teaching and aiding you in becoming an excellent mixologist, definitely becoming the hostess with the mostest!
+
+
+
+<https://itsjeni.netlify.app/allrecipes/>
