@@ -1,16 +1,13 @@
 ---
-title: My Recipes
+title: "The Cocktail Vault: Rum edition"
+subtitle: ""
 permalink: /recipes/
-date: 2020-11-19T18:50:31.663Z
-show: false
+date: 2020-11-21T18:50:31.663Z
+show: true
 layout: recipeshome
 ---
-This will be the home page for your recipes.
+The Cocktail Vault is an anthology of the most highly distinguished Rum cocktails, from across the world, featuring recipes used in today’s day and age, in the world’s most famous bars and restaurants. The recipe guide will include a step-by-step guide of each recipe, with a description of the taste profile, allowing you to truly gain a reflection of each cocktail before you create it. The Cocktail Vault gives you an exclusive, all access pass into the world of cocktail making. The spirit Rum is the key element of all the cocktails, celebrating some of the most beloved rum cocktails, from the Pink Fig Delight to the Rum Marie, this book is an essential guide to cocktail making.
 
-Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![The cocktail vault: Rum Edition - cover image ](../uploads/cover-recipe-book-1-.jpg " The cocktail vault: Rum Edition ")
 
-Add the cover image here.
-
-[![Tomatoes](../uploads/tomatoes.jpg "Tomatoes")](/allrecipes)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Moreover, this treasury of knowledge will truly allow you to be immersed into the creations of these secret elixirs, teaching and aiding you in becoming an excellent mixologist, definitely becoming the hostess with the mostest!
