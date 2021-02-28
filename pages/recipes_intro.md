@@ -1,7 +1,7 @@
 ---
 title: "The Cocktail Vault: Rum edition"
 subtitle: ""
-permalink: /recipes/
+permalink: " ,"
 date: 2020-11-21T18:50:31.663Z
 show: true
 layout: recipeshome
