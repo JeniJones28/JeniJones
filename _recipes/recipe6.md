@@ -9,15 +9,13 @@ tags:
   - Meat
   - Hot
 ---
-## *Profile*
 
-**Name:** Mint Summer Dream 
 
 **Prep Time:** 10 minutes 
 
-**Servings:** 8 cocktail, can be divided easily 
+**Serving:** 8 (can be divided easily)
 
-**Author:** Jeni Jones 
+
 
 ![Strawberry lime mint cocktail](../uploads/whitney-wright-tgqkxqc-t_u-unsplash.jpg "Mint Summer Dream")
 
@@ -25,7 +23,7 @@ Unlock, the mint summer dream, a refreshing explosion of fresh strawberry, acidi
 
 ## *Ingredients* 
 
-* 1-pound strawberries washed and sliced
+* 1 pound strawberries washed and sliced
 * 1 cup white granulated sugar
 * 5 tablespoons water divided
 * ½ cup loosely packed mint leaves
