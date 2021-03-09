@@ -6,15 +6,13 @@ layout: recipe
 published: true
 tags: null
 ---
-## *Profile*
 
-**Name:** Sunshine Mojito 
 
 **Prep Time:** 10 minutes 
 
 **Servings:** 1 cocktail, can be multiplied
 
-**Author:** Jeni Jones 
+
 
 ![Lemon and Mint Mojito in a glass](../uploads/pixzolo-photography-clmch3ayghk-unsplash.jpg " Sunshine Mojito")
 
@@ -36,16 +34,10 @@ The sunshine Mojito is the perfect lemon blast, a perfect combination of zest an
 
 The first thing you need to do Is divide your sugar and half of your mint into a medium sized, use a fork to crush and mix the mint together, until the mint is crushed and fully coated in sugar.
 
-
-
 ##### *Step 2*
 
 Then you need to put the juice of half lemon and the remaining mint into your glass. Next, you need to squeeze the other half of your lemon in a bowl with your white rum, until all combined. 
 
-
-
 ##### *Step 3*
 
-Next, pour your rum mixture within your glass, and top with ice and soda water. Then it’s ready to serve, a quick, easy refreshing cocktail, enjoyed both in and out the sun. 
-
-##
+Next, pour your rum mixture within your glass, and top with ice and soda water. Then it’s ready to serve, a quick, easy refreshing cocktail, enjoyed both in and out the sun.
