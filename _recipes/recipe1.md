@@ -6,9 +6,7 @@ layout: recipe
 published: true
 tags: null
 ---
-## Profile
 
-**Name:** Pink Fig Delight
 
 **Prep Time:** 20 minutes 
 
@@ -16,7 +14,7 @@ tags: null
 
 **Servings:** 1 cocktail, can be multiplied
 
-**Author:** Jeni Jones 
+
 
 ![Fig rosemary lemon rum cocktail ](../uploads/gaby-yerden-3x2cfcobeeq-unsplash.jpg "Pink Fig Delight ")
 
@@ -51,8 +49,6 @@ To make the shrub, you need to allow it to sit in the fridge overnight, to produ
 ##### *Step 2:*
 
 In the morning, take your shrub mixture out of the fridge and take off the covering. Get a strainer or sieve, whatever you have to your disposal. Put the mixture in and use a wooden spoon to squash the juices into a bowl, making sure to get any juice left over in the fig. Then discard the figs and rosemary, leaving you with your pink fig syrup.
-
-
 
 ##### *Step 3:*
 
