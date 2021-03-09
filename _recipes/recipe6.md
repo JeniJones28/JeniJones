@@ -9,13 +9,13 @@ tags:
   - Meat
   - Hot
 ---
-![Clock ](../uploads/7ea0677ead6d638f0d39fdf09c0e5b6f.jpg "Clock ")
+
 
 **Prep Time:** 10 minutes 
 
-![Cocktail](../uploads/236-2364242_margarita-icon-cocktail.png.jpeg "Servings ")
-
 **Serving:** 8 (can be divided easily)
+
+
 
 ![Strawberry lime mint cocktail](../uploads/whitney-wright-tgqkxqc-t_u-unsplash.jpg "Mint Summer Dream")
 
