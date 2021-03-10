@@ -6,17 +6,15 @@ layout: recipe
 published: true
 tags: null
 ---
+Unlock, the Lady Marmalade a fresh zesty burst of blood orange, combined with the sharpness of white rum, balanced together effortlessly, like a fine wine. The infusion of the cinnamon syrup gives warmth and spice to the tangy orange, giving the flavour new life. This is the perfect cocktail for any occasion!
 
+![Blood Orange Cocktail](../uploads/sarah-gualtieri-n7jkjkfwzbk-unsplash.jpg "Lady Marmalade")
 
 **Prep Time:** 20 minutes 
 
 **Servings:** 1 cocktail, can be multiplied
 
 
-
-![Blood Orange Cocktail](../uploads/sarah-gualtieri-n7jkjkfwzbk-unsplash.jpg "Lady Marmalade")
-
-Unlock, the Lady Marmalade a fresh zesty burst of blood orange, combined with the sharpness of white rum, balanced together effortlessly, like a fine wine. The infusion of the cinnamon syrup gives warmth and spice to the tangy orange, giving the flavour new life. This is the perfect cocktail for any occasion!
 
 ## *Ingredients* 
 
