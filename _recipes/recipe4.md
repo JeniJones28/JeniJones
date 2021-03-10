@@ -6,6 +6,12 @@ layout: recipe
 published: true
 tags: null
 ---
+The sunshine Mojito is the perfect lemon blast, a perfect combination of zest and tang , the greatest thirst quencher. Blended together with white rum, fresh invigorating lemon and freshly crushed mint aromas, that are sure to make you the hostess with the mostest!
+
+
+
+![Lemon and Mint Mojito in a glass](../uploads/pixzolo-photography-clmch3ayghk-unsplash.jpg " Sunshine Mojito")
+
 
 
 **Prep Time:** 10 minutes 
@@ -13,10 +19,6 @@ tags: null
 **Servings:** 1 cocktail, can be multiplied
 
 
-
-![Lemon and Mint Mojito in a glass](../uploads/pixzolo-photography-clmch3ayghk-unsplash.jpg " Sunshine Mojito")
-
-The sunshine Mojito is the perfect lemon blast, a perfect combination of zest and tang , the greatest thirst quencher. Blended together with white rum, fresh invigorating lemon and freshly crushed mint aromas, that are sure to make you the hostess with the mostest!
 
 ## *Ingredients* 
 
