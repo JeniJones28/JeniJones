@@ -8,3 +8,7 @@ layout: recipeslisting
 published: true
 ---
 #### *Enjoy!*
+
+Mint Summer Dream:
+
+Unlock, the mint summer dream, a refreshing explosion of fresh strawberry, acidic lemon and fragrant mint, uniting to form the perfect summer elixir. This cocktail is the must have beverage for all of your summer soirees!
