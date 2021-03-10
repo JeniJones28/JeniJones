@@ -9,17 +9,13 @@ tags:
   - Meat
   - Hot
 ---
+Unlock, the Mint Summer Dream, a refreshing explosion of fresh strawberry, acidic lemon and fragrant mint, uniting to form the perfect summer elixir. This cocktail is the must have beverage for all of your summer soirees! 
 
+![Strawberry lime mint cocktail](../uploads/whitney-wright-tgqkxqc-t_u-unsplash.jpg "Mint Summer Dream")
 
 **Prep Time:** 10 minutes 
 
 **Serving:** 8 (can be divided easily)
-
-
-
-![Strawberry lime mint cocktail](../uploads/whitney-wright-tgqkxqc-t_u-unsplash.jpg "Mint Summer Dream")
-
-Unlock, the mint summer dream, a refreshing explosion of fresh strawberry, acidic lemon and fragrant mint, uniting to form the perfect summer elixir. This cocktail is the must have beverage for all of your summer soirees! 
 
 ## *Ingredients* 
 
