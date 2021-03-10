@@ -6,17 +6,15 @@ layout: recipe
 published: true
 tags: null
 ---
+Unlock, The Rum Marie a classic yet elegant take on cherry coke, a well-loved combination across the world. The Rum Marie is a blend of dark aged rum, infused with winter spice and the sweetness of fresh cherry aroma, harmonised impeccably enhancing the iconic flavours. This is the perfect pick me up, that is ready in under 10 minutes!
+
+![Cherry Rum Coke Cocktail in glass](../uploads/masahiro-naruse-qqil342oex4-unsplash.jpg "Rum Marie ")
+
 
 
 **Prep Time:** 15minutes 
 
 **Servings:** 1 cocktail, can be multiplied
-
- 
-
-![Cherry Rum Coke Cocktail in glass](../uploads/masahiro-naruse-qqil342oex4-unsplash.jpg "Rum Marie ")
-
-Unlock, The Rum Marie a classic yet elegant take on cherry coke, a well-loved combination across the world. The Rum Marie is a blend of dark aged rum, infused with winter spice and the sweetness of fresh cherry aroma, harmonised impeccably enhancing the iconic flavours. This is the perfect pick me up, that is ready in under 10 minutes!
 
 ## *Ingredients* 
 
