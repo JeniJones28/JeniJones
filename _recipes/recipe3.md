@@ -8,19 +8,15 @@ tags: null
 ---
 Unlock, the Pineapple Promise a sweet refreshing burst of fresh pineapple, infused with sharp rum, fresh tangy lime and a dash of coconut aroma. This is the perfect elixir for a hot summer’s day, giving you a powerful punch of pineapple, and that’s a promise!
 
-
-
 ![Frozen Pineapple Daquiri ](../uploads/yesmore-content-yb0bm2qqchq-unsplash.jpg "Pineapple Promise ")
-
-
 
 **Prep Time:** 5 minutes 
 
 **Servings:** 1 cocktail, can be multiplied
 
-
-
 ## *Ingredients* 
+
+
 
 * 2 heaping cups frozen pineapple chunks 
 * 6 ounces light rum 
@@ -28,7 +24,13 @@ Unlock, the Pineapple Promise a sweet refreshing burst of fresh pineapple, infus
 * Juice of 1 fresh lime 
 * pineapple chunks and fresh lime for garnish if desired 
 
+
+
+
+
 ##  *Method*
+
+
 
 ##### *Step 1*
 
