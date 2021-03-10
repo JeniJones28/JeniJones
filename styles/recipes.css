@@ -1,4 +1,4 @@
-* CSS for recipes */
+/* CSS for recipes */
 
 html {
   -ms-text-size-adjust: 100%;
@@ -71,7 +71,7 @@ align-content: center;
 
 hr {
   border: 0;
-  border-top: 5px solid rgba(0, 0, 0, 0.1);
+  border-top: 10px;
   border-bottom: 5px solid #fff;
   margin: 1em 0;
 }
@@ -212,4 +212,20 @@ font-style: normal;
 font-weight: bold;
 
 
+}
+
+
+
+.recipelink{
+font-size: 80px;
+color: black;
+
+}
+
+
+.recipe-teaser{
+background-color: white;
+
+
+  
 }
