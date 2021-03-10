@@ -1,4 +1,4 @@
-/* CSS for recipes */
+* CSS for recipes */
 
 html {
   -ms-text-size-adjust: 100%;
@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  margin: 30px;
+  margin: 0px;
 }
 
 article,
@@ -33,7 +33,10 @@ summary {
 }
 
 img {
-  max-width: 100%;
+  max-width:95%;
+align-items:center;
+
+
 }
 
 blockquote {
@@ -57,75 +60,156 @@ ul {
   margin-bottom: 1em;
 }
 
+ul{
+margin-left: 30px;
+font-family:times;
+align-content: center;
+
+
+
+}
+
 hr {
   border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-  border-bottom: 1px solid #fff;
+  border-top: 5px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 5px solid #fff;
   margin: 1em 0;
 }
 
 a {
-  color: #337ab7;
-  text-decoration: none;
+  color:rgb(255, 255, 255)
+  text-align: center;
+  text-align-last: center;
+
 }
+
+
+
+
+
+
+
 
 /* for a menu for all recipes */
 ul.allrecipes {
+  background-color:rgb(143, 161, 126);
   list-style: none;
+  text-align: center;
+  margin:0;
+  padding: 0px;
+
 }
 
 .menu {
   display: block;
-  border: 1px solid gray;
-  width: 15%;
-  font-size: 60%;
-  padding: 10px;
-  margin: 20px 0;
+  background-color:rgb(143, 161, 126);
+  width: 100%;
+  font-size: 100%;
+  margin:auto 0;
+  text-align:;
+  padding: 6px;
 }
+
+.menu ul {
+font-size: 3px;
+
+
+
+
+}
+
+.menu {
+margin: 0;
+
+
+}
+
+
+
 
 body {
 background-color:rgb(143, 161, 126);
 font-family:georgia,serif;
+margin: 0;
 
 }
 
 title {
-color:white;
-font-family:times,sans-serif;
-font-size: 1;
+color: white;
+font-family:times ;
+font-size: 8px;
+font-weight: bold;
+float: left;
+font-style: oblique;
+text-align: center;
+
+
+}
+
+h1 {
+color: white;
+font-size: 40px;
+font: times;
+text-align: center;
+border: 10px;
+
+
+
 
 }
 
 
-
 h2 {
 color:black;
-
+font-size: 25px;
+font-weight: bolder;
+text-align: left;
 }
 
 
 p.blurb{
 font-size: 1.3em;
+align-items: center;
 
 
 }
 
 .content {
-font-size:40;
-width:90%;
-max-width:900px;
+font-size:10px;
+font-family:times;
+width:80%;
+max-width:800px;
 margin:0 auto;
 background-color:white;
-padding:2%;
+padding:25px 4%;
+margin-top: 70px;
+align-items: center;
+
 
 
 
 }
 
 
-h3 {
+p:first-child {
+font-size:15px;
+
+}
+
+.recipehere {
+color: white;
+
+
+
+}
+
+
+}
+
+h5 {
+font-size:10px;
+font-style: normal;
 font-weight: bold;
 
 
 }
-
