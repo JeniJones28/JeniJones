@@ -124,7 +124,7 @@ font-size:.8rem;
 
 
 .recipehere {
-  color:orange;
+  color:pink;
   }
   
   
@@ -209,6 +209,10 @@ font-weight: bold;
 
 @media screen and (max-width: 700px) {
 
+.content {
+width:100%;
+ }
+  
   
   .menu {
 position:static;
@@ -222,5 +226,10 @@ text-align: center;
 }
 
 
+
+.postlink {
+  color: black;
+  text-decoration: none;
+  font-size: 30px;
 
 
