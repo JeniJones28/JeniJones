@@ -133,16 +133,15 @@ font-size:.8rem;
 
 body {
 background-color:rgb(244, 207, 207);
-font-family:georgia,serif;
+font-family:sacramento,cursive;
 margin: 0;
 
 }
 
 title {
 color: white;
-font-family:cursive,sacramento;
+font-family:sacramento,cursive;
 font-size: 8px;
-font-weight: bold;
 float: left;
 font-style: oblique;
 text-align: center;
