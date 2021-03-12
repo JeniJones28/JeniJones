@@ -62,7 +62,7 @@ ul {
 
 ul {
 margin-left: 30px;
-font-family:times, serif;
+font-family:garamond,times, serif;
 align-content: center;
 
 
@@ -152,7 +152,7 @@ text-align: center;
 h1 {
 color: white;
 font-size: 40px;
-font: times;
+font: garamond;
 text-align: center;
 border: 10px;
 
@@ -176,7 +176,7 @@ align-items: center;
 
 .content {
 font-size:10px;
-font-family:times;
+font-family:garamond;
 width:80%;
 max-width:800px;
 margin:0 auto;
