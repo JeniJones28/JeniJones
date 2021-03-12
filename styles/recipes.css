@@ -228,13 +228,13 @@ text-align: center;
 
 
 .post-link {
-  color: pink;
+  color: rgb(153, 181, 129);
   text-decoration: none;
   font-size:25px;
 }
 
 .itemlistheading {
  font-size:25px;
- color:green;
+ color:pink;
  text-align:center;
 }
