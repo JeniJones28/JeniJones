@@ -127,12 +127,13 @@ font-size:.8rem;
   color:pink;
   }
   
-  
+ body {
+ background-image:background-image: img("images/amy-shamblen-lJt-3NUFng4-unsplash.jpg")
 
 
 
 body {
-background-image: url("images/amy-shamblen-lJt-3NUFng4-unsplash.jpg");
+background-color:rgb(244, 207, 207);
 font-family:garamond,times,georgia,serif;
 margin: 0;
 
