@@ -219,6 +219,7 @@ font-weight: bold;
 }
 
 @media screen and (max-width: 700px) {
+}
 
 .content {
 width:100%;
@@ -239,13 +240,13 @@ text-align: center;
 
 
 .post-link {
-  color: rgb(175, 136, 180);
+  color: rgb(110, 129, 93);
   text-decoration: none;
   font-size:25px;
 }
 
 .itemlistheading {
  font-size:25px;
- color:rgb(255, 161, 161);
+ color:rgb(208, 121, 160);
  text-align:center;
 }
