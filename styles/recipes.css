@@ -133,7 +133,7 @@ font-size:.8rem;
 
 
 body {
-background-image:url("/uploads/the-creative-exchange-rch7lk7d7ta-unsplash.jpg");
+background-image:url("/uploads/the-creative-exchange-d2zvqp3fpro-unsplash.jpg");
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
@@ -145,10 +145,6 @@ margin: 0;
   
   
   
-background-image:url ("brooke-lark-atzwfitrhy8-unsplash.jpg");
-background-color:rgb(244, 207, 207);
-font-family:garamond,times,georgia,serif;
-margin: 0;
 
 }
 
@@ -164,7 +160,7 @@ text-align: center;
 }
 
 h1 {
-color: white;
+color: white
 font-size: 40px;
 font: garamond;
 text-align: center;
