@@ -131,7 +131,7 @@ font-size:.8rem;
 
 
 body {
-background-image:img src "brooke-lark-atzwfitrhy8-unsplash.jpg";
+background-image:img src=("brooke-lark-atzwfitrhy8-unsplash.jpg");
 background-color:rgb(244, 207, 207);
 font-family:garamond,times,georgia,serif;
 margin: 0;
