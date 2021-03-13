@@ -132,6 +132,18 @@ font-size:.8rem;
 
 
 body {
+background-image:url("/uploads/brooke-lark-atzwfitrhy8-unsplash.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-color:rgb(244, 207, 207);
+font-family:garamond,times,georgia,serif;
+margin: 0;
+}  
+  
+  
+  
+  
 background-image:url ("brooke-lark-atzwfitrhy8-unsplash.jpg");
 background-color:rgb(244, 207, 207);
 font-family:garamond,times,georgia,serif;
