@@ -95,7 +95,7 @@ a {
 
 nav {
 /* border:3px solid red; */
-background-color: rgba(39, 78, 49, 0.84);
+background-color: rgba(12, 48, 22, 0.84);
 }
 
 /* for a menu for all recipes */
@@ -160,7 +160,7 @@ text-align: center;
 }
 
 h1 {
-color: white
+color:white;
 font-size: 40px;
 font: garamond;
 text-align: center;
@@ -170,7 +170,7 @@ border: 10px;
 
 
 h2 {
-color:rgb(125, 145, 107);
+color:rgb(110, 129, 93);
 font-size: 25px;
 font-weight: bolder;
 text-align: left;
@@ -239,13 +239,13 @@ text-align: center;
 
 
 .post-link {
-  color: rgb(125, 145, 107);
+  color: rgb(110, 129, 93);
   text-decoration: none;
   font-size:25px;
 }
 
 .itemlistheading {
  font-size:25px;
- color:pink;
+ color:rgb(255, 161, 161);
  text-align:center;
 }
