@@ -14,9 +14,7 @@ Unlock, the Pineapple Promise a sweet refreshing burst of fresh pineapple, infus
 
 **Servings:** 1 cocktail, can be multiplied
 
-## *Ingredients* 
-
-
+## Ingredients 
 
 * 2 heaping cups frozen pineapple chunks 
 * 6 ounces light rum 
@@ -24,22 +22,16 @@ Unlock, the Pineapple Promise a sweet refreshing burst of fresh pineapple, infus
 * Juice of 1 fresh lime 
 * pineapple chunks and fresh lime for garnish if desired 
 
+##  Method
 
-
-
-
-##  *Method*
-
-
-
-##### *Step 1*
+##### Step 1
 
 The first step is cut your pineapple into chunks and freeze preferably overnight, or alternatively you can buy pre frozen pineapple chunks in your local supermarkets, whatever is easier and quicker for you.
 
-##### *Step 2*
+##### Step 2
 
 Place your frozen pineapple in a blender with coconut cocktail syrup, rum and your lime juice. Blend until a smooth consistency.
 
-##### *Step 3*
+##### Step 3
 
 Pour your mixture into a medium size glass and garnish with a fresh pineapple slice and a pineapple leaf, if desired.
