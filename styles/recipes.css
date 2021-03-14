@@ -215,7 +215,6 @@ font-color:pink;
 font-style: normal;
 font-weight: bold;
 
-
 }
 
 @media screen and (max-width: 700px) {
@@ -237,10 +236,8 @@ text-align: center;
 
 
 
-
-
 .post-link {
-  color: rgb(110, 129, 93);
+  color:rgb(110, 129, 93);
   text-decoration: none;
   font-size:25px;
 }
