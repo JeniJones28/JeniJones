@@ -33,7 +33,7 @@ summary {
 }
 
 img {
-  max-width:100%;
+  max-width:70%;
 align-items:center;
 
 
@@ -149,7 +149,7 @@ margin: 0;
 }
 
 title {
-color: black;
+color: white;
 font-family:garamond;
 font-size: 8px;
 float: left;
