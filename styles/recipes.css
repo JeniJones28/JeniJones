@@ -78,7 +78,6 @@ hr {
 
 a {
   color:rgb(255, 255, 255)
-  font-family:garamond 
   text-align: center;
   text-align-last: center;
 
@@ -163,7 +162,7 @@ text-align: center;
 h1 {
 color:white;
 font-size: 40px;
-font: garamond;
+font: garamond, times, georgia, serif;
 text-align: center;
 border: 10px;
 
