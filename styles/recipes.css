@@ -78,6 +78,7 @@ hr {
 
 a {
   color:rgb(255, 255, 255)
+  font-family:garamond 
   text-align: center;
   text-align-last: center;
 
@@ -211,7 +212,7 @@ font-size:15px;
 
 h5 {
 font-size:10px;
-font-color:pink;
+font-color:rgb(215, 144, 170);
 font-style: normal;
 font-weight: bold;
 
