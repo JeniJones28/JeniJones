@@ -113,7 +113,7 @@ margin-left: 0;
   margin: 18px 0;
 min-width: 120px;
 position:fixed;
- border-radius:25px
+ border-radius:25px;
 top:0;
 left:0;
 }
@@ -173,7 +173,6 @@ h2 {
 color:rgb(110, 129, 93);
 font-family:garamond,times, georgia, serif;
 font-size: 25px;
-font-weight: bolder;
 text-align: left;
 }
 
@@ -195,7 +194,7 @@ background-color:white;
 padding:25px 4%;
 margin-top: 70px;
 align-items: centre;
-
+border-radius:25px;
 
 
 
