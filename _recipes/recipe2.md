@@ -14,7 +14,7 @@ Unlock, The Rum Marie a classic yet elegant take on cherry coke, a well-loved co
 
 **Servings:** 1 cocktail, can be multiplied
 
-## *Ingredients* 
+## Ingredients 
 
 * Cherry Simple Syrup
 *  1 ½ cups Cherries
@@ -24,7 +24,7 @@ Unlock, The Rum Marie a classic yet elegant take on cherry coke, a well-loved co
 * 12 ounces cold Coca-Cola
 * ½ cup whole cherries for garnish 
 
-##  *Method*
+##  Method
 
 ##### Step 1
 
